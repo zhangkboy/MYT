@@ -1,3 +1,6 @@
 [submodule "SRC/MTPSocial/FistP"]
 	path = SRC/MTPSocial/FistP
 	url = git@github.com:zhangkboy/FistP.git
+[submodule "SRC/MTPSocial/SECP"]
+	path = SRC/MTPSocial/SECP
+	url = git@github.com:zhangkboy/SECP.git
