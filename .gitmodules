@@ -1,0 +1,3 @@
+[submodule "SRC/MTPSocial/FistP"]
+	path = SRC/MTPSocial/FistP
+	url = git@github.com:zhangkboy/FistP.git
